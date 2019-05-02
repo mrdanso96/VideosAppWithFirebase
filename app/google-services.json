@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "908244973726",
+    "firebase_url": "https://videosappwithfirebase-e1bd9.firebaseio.com",
+    "project_id": "videosappwithfirebase-e1bd9",
+    "storage_bucket": "videosappwithfirebase-e1bd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908244973726:android:14fac09bdfe29310",
+        "android_client_info": {
+          "package_name": "com.example.videosappwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908244973726-0dpmietgokhgg2299sr9bm88nikdvdc4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.videosappwithfirebase",
+            "certificate_hash": "f62d96adc6016e7e86cfa104096d907a38966727"
+          }
+        },
+        {
+          "client_id": "908244973726-4teci50t1j07v1m09v4000mkmcfr8nvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlRzXK275YWq9gp4YUkBwH0iR5QSpVMoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908244973726-4teci50t1j07v1m09v4000mkmcfr8nvh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
